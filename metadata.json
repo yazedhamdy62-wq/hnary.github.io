@@ -1,0 +1,6 @@
+{
+  "name": "أمان - استشارات تأمين الحياة",
+  "description": "منصة استشارات تأمين الحياة الذكية، حاسبة أقساط، أداة مقارنة بوليصات، ومحلل تغطية بالذكاء الاصطناعي، ولوحة تحكم CRM وإدارة مواعيد للمستشارين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
